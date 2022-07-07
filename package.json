@@ -57,7 +57,7 @@
     "@types/socket.io-client": "^1.4.33",
     "babel-preset-expo": "~8.1.0",
     "expo-image-picker": "^8.1.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "react-native-aws3": "0.0.9",
     "react-native-dotenv": "^0.2.0",
     "react-native-swipeout": "^2.3.6",
